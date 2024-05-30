@@ -1,0 +1,10 @@
+geth --datadir mypow
+> geth --datadir mypow เริ่มกำเนิดข้อมูลjson [ 01 - 02 | 11 : 03 : 53.703 ] จำนวนเพียร์                        สูงสุดETH = 50 LES = 0ทั้งหมด= 50 ข้อมูล [ 01 - 02 | 11 : 03 : 53.706 ] ตั้ง ค่าขีดจำกัดของถังแก๊ส ทั่วโลก = 50 , 000 , 000 INFO [ 01 - 02 | 11 : 03 : 53.707 ] ฐานข้อมูลแคชและการจัดการไฟล์ที่จัดสรร = /Users/ nat/jibchain-erigon/mypow/geth/chaindata cache= 16. 00MiB handles= 16 INFO [ 01 - 02 | 11 : 03 : 53.843 ] เปิดฐานข้อมูลฐานข้อมูลโบราณ= /Users/ nat/jibchain-erigon/mypow/geth/chaindata/ancient/chain readonly = false INFO [ 01 - 02 | 11 : 03 : 53.846 ] เขียนฐานข้อมูลสถานะกำเนิดสำเร็จแล้ว =chaindata hash=2d559f.. c63524 INFO [ 01 - 02 | 11 : 03 : 53.846 ] แคช ที่จัดสรรและฐานข้อมูลการจัดการไฟล์ = /Users/ nat/jibchain-erigon/mypow/geth/lightchaindata cache= 16. 00MiB handles= 16 INFO [ 01 - 02 | 11 : 03 : 53.985 ] เปิดฐานข้อมูลฐานข้อมูลโบราณ= /Users/ nat/jibchain-erigon/mypow/geth/lightchaindata/ancient/chain readonly = false INFO [ 01 - 02 | 11 : 03 : 53.987 ] เขียนฐานข้อมูลสถานะกำเนิดสำเร็จแล้ว =lightchaindata hash=2d559f.. c63524
+ 
+ 
+
+
+
+
+
+
