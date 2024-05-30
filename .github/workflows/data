@@ -1,0 +1,18 @@
+IBFT-Network/
+├── genesis.json
+├── Node-1
+│   ├── data
+│   │    ├── key
+│   │    ├── key.pub
+├── Node-2
+│   ├── data
+│   │    ├── key
+│   │    ├── key.pub
+├── Node-3
+│   ├── data
+│   │    ├── key
+│   │    ├── key.pub
+├── Node-4
+│   ├── data
+│   │    ├── key
+│   │    ├── key.pub
