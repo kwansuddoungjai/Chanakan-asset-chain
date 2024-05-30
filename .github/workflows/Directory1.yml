@@ -1,0 +1,9 @@
+IBFT-Network/
+├── Node-1
+│   ├── data
+├── Node-2
+│   ├── data
+├── Node-3
+│   ├── data
+└── Node-4
+    ├── data 
