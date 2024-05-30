@@ -1,0 +1,15 @@
+ networkFiles/
+├── genesis.json
+└── keys
+    ├── 0x438821c42b812fecdcea7fe8235806a412712fc0
+    │   ├── key
+    │   └── key.pub
+    ├── 0xca9c2dfa62f4589827c0dd7dcf48259aa29f22f5
+    │   ├── key
+    │   └── key.pub
+    ├── 0xcd5629bd37155608a0c9b28c4fd19310d53b3184
+    │   ├── key
+    │   └── key.pub
+    └── 0xe96825c5ab8d145b9eeca1aba7ea3695e034911a
+        ├── key
+        └── key.pub
