@@ -1,0 +1,9 @@
+module.exports = {
+  build: function(options, callback) {
+     // Do something when a build is required. `options` contains these values:
+     //
+     // working_directory: root location of the project
+     // contracts_directory: root directory of .sol files
+     // destination_directory: directory where truffle expects the built assets (important for `truffle serve`)
+  }
+}
