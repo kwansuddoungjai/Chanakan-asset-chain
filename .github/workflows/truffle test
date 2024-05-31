@@ -1,0 +1,20 @@
+$ truffle test
+
+Compiling your contracts...
+===========================
+> Compiling ./contracts/Telephone.sol
+> Artifacts written to /tmp/test--19090-s3Aobp6MBrr3
+> Compiled successfully using:
+   - solc: 0.8.17+commit.8df45f5f.Emscripten.clang
+
+  Contract: Telephone
+    Works with new deployment
+  : Telephone::constructor
+  :     secret: 786n
+      ✔ Should have a deployed contract
+      ✔ has the secret
+  : The passphrase is: 786n
+  : Leak it a hundred times, plus one: 78601n
+      ✔ has the derived Secret
+
+  3 passing (161ms)
