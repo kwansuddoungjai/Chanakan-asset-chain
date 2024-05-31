@@ -1,0 +1,6 @@
+module.exports = {
+  ...
+  solidityLog: {
+    preventConsoleLogMigration: true // default is false,
+  }
+}
